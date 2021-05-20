@@ -1,9 +1,9 @@
-## problem
-- [ ] not loading
+## new item huh
+- [ ] page/<page name>
 - [ ] statuscode: \<status code>
-- [ ] error after oauth2
+- [ ] new only ouath2 page
 - [ ] Others: \______
-Link: <ur url from site>
+Link: https://Shaodws-site-OWO.nongmerbot.repl.co/pages/<page name>
 Referenced Issue: #NaN (Answer for an issue, if any)
   
 ## Description

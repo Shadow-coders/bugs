@@ -1,5 +1,6 @@
 # bugs
 Report bugs here!
 Use the corect branch to report the bug!
-this branch (`main`) is not for anithing exept knoledge and this `README.md`
+this is for site bugs!
+look at the pull requests and issues for a list of done pugs check `DONE.md`
 -- site
